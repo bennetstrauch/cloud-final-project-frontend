@@ -1,0 +1,16 @@
+Final Project Cloud Computing Group 9
+
+3 members: Tobi Lekan Adeosun, Mohammed M. m. Almassri, Bennet Strauch
+
+Brief description
+Tobi: Doest like the Iowa winters
+Mohammed: Uses Linux so that his RAM survives
+Bennet: Has his head in the Clouds (especially this block)
+
+Distribution
+Tobi: Backend-Code, Backend-.yaml
+Mohammed: Frontend-Code, part of Backend-Code & .yaml
+Bennet: Frontend-Pipeline, Frontend-.yaml
+
+
+PS: Our readmes are for Backend and Frontend are found in their corresponding folders.
