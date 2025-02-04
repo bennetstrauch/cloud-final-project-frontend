@@ -13,4 +13,4 @@ Mohammed: Frontend-Code, Bug fixes of Backend-Code & Backend-CloudFormation
 Bennet: Frontend-Pipeline, Frontend-CLoudFormation
 
 
-PS: Our readmes are for Backend and Frontend are found in their corresponding folders.
+PS: Our readmes for Backend and Frontend are found in their corresponding folders.
